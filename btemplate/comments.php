@@ -1,0 +1,1 @@
+<?php if ( ! is_preview() ) { if (comments_open()) { ?><div id="comments">Тут вставлять комментарии от любимого сервиса (vk, disqus и т.д.).</div><?php } } ?>
